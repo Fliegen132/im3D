@@ -1,0 +1,13 @@
+﻿  mesh.cpp
+  main.cpp
+E:\c++\Project1\Project1\src\graphics\mesh.cpp(50,43): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+E:\c++\Project1\Project1\src\graphics\Models\cube.hpp(65,30): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "src/main.cpp")
+  
+E:\c++\Project1\Project1\src\main.cpp(71,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  1 of 711 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project1.vcxproj -> E:\c++\Project1\x64\Release\Project1.exe

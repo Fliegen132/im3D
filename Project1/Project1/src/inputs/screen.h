@@ -1,0 +1,30 @@
+#ifndef SCREEN_H
+#define SCREEN_H
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+
+class Screen
+{
+public:
+	Screen();
+	static unsigned int SCR_WIDTH;
+	static unsigned int SCR_HEIGHT;
+
+	static void framebuffer_size_callback(GLFWwindow* window, int width, int height);
+
+	bool init();
+
+	void setParameters();
+
+	//main loop
+	void update();
+	void newFrame();
+
+	bool shouldClose();
+	void setShouldClose(bool shouldClose);
+
+private:
+	GLFWwindow* window;
+};
+
+#endif // !SCREEN_H

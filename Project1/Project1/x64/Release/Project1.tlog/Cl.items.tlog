@@ -1,0 +1,12 @@
+E:\c++\Project1\Project1\src\glad.c;E:\c++\Project1\Project1\x64\Release\glad.obj
+E:\c++\Project1\Project1\src\graphics\material.cpp;E:\c++\Project1\Project1\x64\Release\material.obj
+E:\c++\Project1\Project1\src\graphics\mesh.cpp;E:\c++\Project1\Project1\x64\Release\mesh.obj
+E:\c++\Project1\Project1\src\graphics\model.cpp;E:\c++\Project1\Project1\x64\Release\model.obj
+E:\c++\Project1\Project1\src\graphics\texture.cpp;E:\c++\Project1\Project1\x64\Release\texture.obj
+E:\c++\Project1\Project1\src\inputs\camera.cpp;E:\c++\Project1\Project1\x64\Release\camera.obj
+E:\c++\Project1\Project1\src\inputs\keyboard.cpp;E:\c++\Project1\Project1\x64\Release\keyboard.obj
+E:\c++\Project1\Project1\src\inputs\mouse.cpp;E:\c++\Project1\Project1\x64\Release\mouse.obj
+E:\c++\Project1\Project1\src\inputs\screen.cpp;E:\c++\Project1\Project1\x64\Release\screen.obj
+E:\c++\Project1\Project1\src\main.cpp;E:\c++\Project1\Project1\x64\Release\main.obj
+E:\c++\Project1\Project1\src\graphics\shader.cpp;E:\c++\Project1\Project1\x64\Release\shader.obj
+E:\c++\Project1\Project1\src\stb.cpp;E:\c++\Project1\Project1\x64\Release\stb.obj

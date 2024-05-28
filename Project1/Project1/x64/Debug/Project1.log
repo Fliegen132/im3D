@@ -1,0 +1,5 @@
+﻿  Shader.cpp
+  main.cpp
+E:\c++\Project1\Project1\src\main.cpp(93,26): warning C4101: texture2: неиспользованная локальная переменная
+  Создание кода...
+  Project1.vcxproj -> E:\c++\Project1\x64\Debug\Project1.exe
